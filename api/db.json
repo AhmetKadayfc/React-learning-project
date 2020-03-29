@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": "uniq1",
+      "name": "Ahmet Kadayıfçı",
+      "title": "Full Stack Developr",
+      "birthDay": 1999
+    },
+    {
+      "name": "Ulaş Can Demirbağ",
+      "title": "Back End Developer",
+      "birthDay": 1999,
+      "id": "uniq3"
+    },
+    {
+      "name": "Mehmet Kadayıfçı",
+      "title": "Graphic Designer",
+      "birthDay": 1993,
+      "id": "Lxn1eJA"
+    }
+  ]
+}
